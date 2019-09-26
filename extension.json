@@ -1,0 +1,22 @@
+{
+	"name": "OpenJsCad",
+	"author": "WolfgangFahl",
+	"url": "https://www.mediawiki.org/wiki/Extension:OpenJsCad",
+	"descriptionmsg": "openjscad_desc",
+	"license-name": "Apache",
+	"type": "parserhook",
+	"MessagesDirs": {
+		"OpenJsCad": [
+			"i18n"
+		]
+	},
+	"Hooks": {
+		"ParserFirstCallInit": [
+			"OpenJsCad::onParserFirstCallInit"
+		]
+	},
+	"AutoloadClasses": {
+		"OpenJsCad": "includes/OpenJsCad.php"
+	},
+	"manifest_version": 1
+}

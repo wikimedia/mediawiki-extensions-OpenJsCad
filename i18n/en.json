@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wolfgang Fahl"
+		]
+	},
+	"openjscad_desc": "Adds Tag <code>&lt;jscad&gt;</code> to display OpenJsCad 3D Print Designs"
+}
