@@ -3,7 +3,7 @@
 	"author": "WolfgangFahl",
 	"url": "https://www.mediawiki.org/wiki/Extension:OpenJsCad",
 	"descriptionmsg": "openjscad_desc",
-	"license-name": "Apache",
+	"license-name": "Apache-2.0",
 	"type": "parserhook",
 	"MessagesDirs": {
 		"OpenJsCad": [
