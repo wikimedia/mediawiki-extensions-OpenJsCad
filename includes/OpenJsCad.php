@@ -41,7 +41,7 @@ class OpenJsCad
     public static function render($input, $params, $parser)
     {
         if (isset($params["nocache"])) {
-            $parser->disableCache();
+            $parser->getOutput()->updateCacheExpiry( 0 );
         }
         // in case WikiMarkup / Templates have been used to specify page ..
         $code = $parser->recursiveTagParse($input);
