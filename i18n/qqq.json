@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Raymond"
+			"Umherirrender"
 		]
 	},
-	"openjscad-desc": "{{desc|name=OpenJsCad|url=https://www.mediawiki.org/wiki/Extension:OpenJsCad}}"
+	"openjscad-desc": "{{desc|name=OpenJsCad|url=https://www.mediawiki.org/wiki/Extension:OpenJsCad}}\nDo not translate <code>jscad</code>"
+}
