@@ -11,9 +11,7 @@
 		]
 	},
 	"Hooks": {
-		"ParserFirstCallInit": [
-			"OpenJsCad::onParserFirstCallInit"
-		]
+		"ParserFirstCallInit": "OpenJsCad::onParserFirstCallInit"
 	},
 	"AutoloadClasses": {
 		"OpenJsCad": "includes/OpenJsCad.php"
