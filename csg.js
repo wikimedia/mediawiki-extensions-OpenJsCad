@@ -3959,7 +3959,7 @@ CSG.reTesselateCoplanarPolygons = function(sourcepolygons, destpolygons) {
 			// update activepolygons for this y coordinate:
 			// - Remove any polygons that end at this y coordinate
 			// - update leftvertexindex and rightvertexindex (which point to the current vertex index
-			//   at the the left and right side of the polygon
+			//   at the left and right side of the polygon
 			// Iterate over all polygons that have a corner at this y coordinate:
 			var polygonindexeswithcorner = ycoordinatetopolygonindexes[ycoordinate_as_string];
 			for(var activepolygonindex = 0; activepolygonindex < activepolygons.length; ++activepolygonindex) {
