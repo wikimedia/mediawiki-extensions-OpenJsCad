@@ -5,6 +5,9 @@
 	"descriptionmsg": "openjscad-desc",
 	"license-name": "Apache-2.0",
 	"type": "parserhook",
+	"requires": {
+		"MediaWiki": ">= 1.31.0"
+	},
 	"MessagesDirs": {
 		"OpenJsCad": [
 			"i18n"
@@ -16,8 +19,5 @@
 	"AutoloadClasses": {
 		"OpenJsCad": "includes/OpenJsCad.php"
 	},
-	"manifest_version": 1,
-	"requires": {
-		"MediaWiki": ">= 1.16.3"
-	}
+	"manifest_version": 1
 }
