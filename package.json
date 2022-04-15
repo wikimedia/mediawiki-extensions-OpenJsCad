@@ -1,4 +1,5 @@
 {
+	"name": "OpenJsCad",
 	"private": true,
 	"scripts": {
 		"test": "grunt test"
