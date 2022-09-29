@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mainframe98"
+			"Mainframe98",
+			"McDutchie"
 		]
 	},
-	"openjscad-desc": "Voegt het <code>&lt;jscad&gt;</code> element toe om OpenJsCad 3D Print Designs te kunnen weergeven"
+	"openjscad-desc": "Voegt de tag <code><jscad></code> toe om OpenJsCad 3D-afdrukontwerpen weer te geven"
 }
