@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wizzard"
+		]
+	},
+	"openjscad-desc": "Pridáva značku <code>&lt;jscad&gt;</code> na zobrazenie návrhov 3D tlače OpenJsCad"
+}
